@@ -1,3 +1,5 @@
+##I would like to point out that this tutorial was created by @lmiller1990
+
 # graphql-example
 
 ## Project setup
